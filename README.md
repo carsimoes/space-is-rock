@@ -1,7 +1,7 @@
 # Space is Rock!
 
 ## The author
-I'm Carlos. This project began June 2021. 
+Welcome to my Spotify notebook! I'm Carlos. This project began June 2021. 
 
 
 ## Installations
