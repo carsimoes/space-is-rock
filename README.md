@@ -9,13 +9,14 @@ Welcome to my Spotify notebook! I'm Carlos. This project began June 2021.
 **Download** the latest GitHub repository.
 
 ```bash
-$ Donwload datasets to input folder from: (https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
+$ Donwload datasets from: (https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
+$ Put .csv files in input folder
 $ Run notebook
 ```
 
 ## Project Motivation
 
-In this book, I explored the Spotify dataset to see what interesting insights and fun facts about popular music events and the historical space of humanity, such as:
+In this notebook, I explored the Spotify dataset to see what interesting insights and fun facts about popular music events and the historical space of humanity, such as:
 
 * What were the most popular artists?
 * What were the most popular artists in the historical periods below?
