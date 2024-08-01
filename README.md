@@ -72,6 +72,7 @@ Feature Definitions
 
 source: https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-features
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=carsimoes.space-is-rock)
 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/carsimoes/)
